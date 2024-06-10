@@ -1,3 +1,6 @@
 <?php
-    echo "Hello, World";
+    //echo "Hello, World";
+    
+    $text = "I am now php developer";
+    echo "Hurrah! = $text ";
 ?>
